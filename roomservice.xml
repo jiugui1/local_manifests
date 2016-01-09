@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Please do not manually edit this file-->
+<manifest>
+  <project name="CyanogenMod/android_device_htc_m8" path="device/htc/m8" remote="github" />
+  <project name="CyanogenMod/android_device_htc_m8-common" path="device/htc/m8-common" remote="github" />
+  <project name="CyanogenMod/android_device_htc_msm8974-common" path="device/htc/msm8974-common" remote="github" />
+  <project name="CyanogenMod/android_kernel_htc_msm8974" path="kernel/htc/msm8974" remote="github" />
+  <project name="CyanogenMod/android_hardware_sony_thermanager" path="hardware/sony/thermanager" remote="github" />
+  <project name="android_device_htc_m8-common" path="device/htc/m8-common" remote="suda" revision="sm-2.0" />
+</manifest>
